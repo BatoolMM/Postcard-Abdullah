@@ -1,6 +1,6 @@
 ---
 title: "Abdullah Almarzouq!"
-image: "imgs/profile.jpeg"
+image: "imgs/IMG_1579.jpeg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
@@ -17,4 +17,4 @@ output:
   postcards::onofre
 ---
  
-I'm a second year medical students at the Imam Abdulrahman Bin Faisal University. I'm passion about popularising science to general public. When I'm not studying, I love listening to music and play guitar 
+I'm a second year medical students at the Imam Abdulrahman Bin Faisal University and a member in MedSTEMPowered. MedSTEMPowered is an international Nonprofit Organization dedicated to building a community for Future M.D.s+ in STEM. I'm also passion about popularising science to general public. When I'm not studying, I love listening to music and play guitar.
