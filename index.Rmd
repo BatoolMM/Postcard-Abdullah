@@ -3,6 +3,7 @@ title: "Abdullah Almarzouq!"
 image: "imgs/IMG_1579.jpeg"
 color1: "#5A59A3"
 color2: "#C66060"
+google_analytics: "UA-188498699-2"
 angle: 130
 links:
   - label: Curiouscat
