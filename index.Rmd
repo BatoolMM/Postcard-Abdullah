@@ -1,6 +1,6 @@
 ---
 title: "Abdullah Almarzouq!"
-image: "imgs/abdullah.jpeg"
+image: "imgs/profile.jpeg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
