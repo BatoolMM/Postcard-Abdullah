@@ -1,24 +1,20 @@
 ---
-title: "Willkommen!"
-image: "herzl.jpg"
+title: "Abdullah Almarzouq!"
+image: "imgs/abdullah.jpeg"
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
-  - label: YouTube
-    url: "https://youtube.com/"
-  - label: Vimeo
-    url: "https://vimeo.com/"
+  - label: Curiouscat
+    url: "https://curiouscat.qa/Elegant3_/"
+  - label: Instagram
+    url: "https://instagram.com/almarzouq783?r=nametag/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Elegant3_/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "almarzouq45@gmail.com"
 output:
   postcards::onofre
 ---
  
-György Herzl is a filmmaker and computational storyteller based in Leipzig,
-Germany. Their work has been featured at the Festival do Rio, Internationale
-Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
-in New York City. "ГУМ" is their latest project which examines the rise of
-consumerism in post-Soviet republics.
+I'm a second year medical students at the Imam Abdulrahman Bin Faisal University. I'm passion about popularising science to general public. When I'm not studying, I love listening to music and play guitar 
